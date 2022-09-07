@@ -1,5 +1,9 @@
-# website
+# Welcome to my website--by sujun
+**bold**
 This repository demonstrates how to use GitHub Pages
-# This is my new website.
+# New start.
+**bold**
 
-Let's go!
+Let's go with cats first!
+[link text](https://commons.wikimedia.org/w/index.php?search=Cat&title=Special:MediaSearch&go=Go&type=image)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cat_with_toy.jpg/640px-Cat_with_toy.jpg)
